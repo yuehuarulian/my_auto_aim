@@ -1,0 +1,3 @@
+/home/yuehua/Desktop/bigwork/WEEK1/build/CMakeFiles/main.dir
+/home/yuehua/Desktop/bigwork/WEEK1/build/CMakeFiles/edit_cache.dir
+/home/yuehua/Desktop/bigwork/WEEK1/build/CMakeFiles/rebuild_cache.dir

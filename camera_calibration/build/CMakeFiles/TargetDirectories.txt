@@ -1,0 +1,3 @@
+/home/ruiling/Desktop/camera_bd/build/CMakeFiles/main.dir
+/home/ruiling/Desktop/camera_bd/build/CMakeFiles/edit_cache.dir
+/home/ruiling/Desktop/camera_bd/build/CMakeFiles/rebuild_cache.dir

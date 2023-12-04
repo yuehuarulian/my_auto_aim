@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yuehua/Desktop/bigwork/WEEK1/build",
+  "command": "/usr/bin/g++  -I/home/yuehua/Desktop/bigwork/WEEK1/include -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/yuehua/Desktop/bigwork/WEEK1/src/main.cpp",
+  "file": "/home/yuehua/Desktop/bigwork/WEEK1/src/main.cpp"
+}
+]

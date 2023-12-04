@@ -1,0 +1,3 @@
+/home/ruiling/Desktop/eyeinhand/build/CMakeFiles/main.dir
+/home/ruiling/Desktop/eyeinhand/build/CMakeFiles/edit_cache.dir
+/home/ruiling/Desktop/eyeinhand/build/CMakeFiles/rebuild_cache.dir

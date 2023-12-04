@@ -1,0 +1,3 @@
+/home/ruiling/Desktop/bigwork1_auto_aim/imu/build/CMakeFiles/main.dir
+/home/ruiling/Desktop/bigwork1_auto_aim/imu/build/CMakeFiles/edit_cache.dir
+/home/ruiling/Desktop/bigwork1_auto_aim/imu/build/CMakeFiles/rebuild_cache.dir
