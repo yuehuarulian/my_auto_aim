@@ -1,0 +1,3 @@
+/home/yuehua/Desktop/homework/h6/jd2/build/CMakeFiles/main.dir
+/home/yuehua/Desktop/homework/h6/jd2/build/CMakeFiles/edit_cache.dir
+/home/yuehua/Desktop/homework/h6/jd2/build/CMakeFiles/rebuild_cache.dir

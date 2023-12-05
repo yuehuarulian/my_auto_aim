@@ -1,0 +1,5 @@
+Log file created at: 2023/10/10 21:10:44
+Running on machine: yuehua-virtual-machine
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1010 21:10:44.464354  2807 MVCameraBase.cpp:99] Device:(name:MV-SUA134GC#0 sn:042071320239)Lost
+W1010 21:10:44.866241  2807 MVCameraBase.cpp:119] Device:(name:MV-SUA134GC#0 sn:042071320239)ReConnected, TolCount:1

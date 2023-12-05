@@ -1,0 +1,6 @@
+matplotlib>=3.7.1
+numpy>=1.24.2
+onnx>=1.13.1
+
+# 安装pytorch环境需要自己运行如下指令
+# pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu

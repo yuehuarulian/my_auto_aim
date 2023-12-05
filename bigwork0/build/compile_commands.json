@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/yuehua/Desktop/homework/h6/jd2/build",
+  "command": "/usr/bin/g++  -I/home/yuehua/Desktop/homework/h6/jd2/include -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/yuehua/Desktop/homework/h6/jd2/src/main.cpp",
+  "file": "/home/yuehua/Desktop/homework/h6/jd2/src/main.cpp"
+},
+{
+  "directory": "/home/yuehua/Desktop/homework/h6/jd2/build",
+  "command": "/usr/bin/g++  -I/home/yuehua/Desktop/homework/h6/jd2/include -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/src/detector.cpp.o -c /home/yuehua/Desktop/homework/h6/jd2/src/detector.cpp",
+  "file": "/home/yuehua/Desktop/homework/h6/jd2/src/detector.cpp"
+},
+{
+  "directory": "/home/yuehua/Desktop/homework/h6/jd2/build",
+  "command": "/usr/bin/g++  -I/home/yuehua/Desktop/homework/h6/jd2/include -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/src/camera.cpp.o -c /home/yuehua/Desktop/homework/h6/jd2/src/camera.cpp",
+  "file": "/home/yuehua/Desktop/homework/h6/jd2/src/camera.cpp"
+},
+{
+  "directory": "/home/yuehua/Desktop/homework/h6/jd2/build",
+  "command": "/usr/bin/g++  -I/home/yuehua/Desktop/homework/h6/jd2/include -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/src/classifier.cpp.o -c /home/yuehua/Desktop/homework/h6/jd2/src/classifier.cpp",
+  "file": "/home/yuehua/Desktop/homework/h6/jd2/src/classifier.cpp"
+},
+{
+  "directory": "/home/yuehua/Desktop/homework/h6/jd2/build",
+  "command": "/usr/bin/g++  -I/home/yuehua/Desktop/homework/h6/jd2/include -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/src/solvepnp.cpp.o -c /home/yuehua/Desktop/homework/h6/jd2/src/solvepnp.cpp",
+  "file": "/home/yuehua/Desktop/homework/h6/jd2/src/solvepnp.cpp"
+},
+{
+  "directory": "/home/yuehua/Desktop/homework/h6/jd2/build",
+  "command": "/usr/bin/g++  -I/home/yuehua/Desktop/homework/h6/jd2/include -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/src/getv.cpp.o -c /home/yuehua/Desktop/homework/h6/jd2/src/getv.cpp",
+  "file": "/home/yuehua/Desktop/homework/h6/jd2/src/getv.cpp"
+}
+]
